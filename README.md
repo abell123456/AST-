@@ -4,7 +4,7 @@
 
 ### [htmlparser3](https://www.npmjs.com/package/htmlparser3)
 
-`介绍` 基于`htmlparser2`，支持JSX语法的html parser。
+`介绍` 基于`htmlparser2`，支持JSX语法解析的html parser。
 
 `文档` https://github.com/abell123456/htmlparser3  
 
